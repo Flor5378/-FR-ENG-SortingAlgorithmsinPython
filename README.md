@@ -1,3 +1,7 @@
+*Florian Grolleau 2A-DD*  
+*Under the supervision of Ph.D J.P Forest*  
+*Janvier 2024*
+
 # Sorting Algorithms in Python
 
 This repository contains a Jupyter notebook implementing and animating several classic sorting algorithms in Python:  
