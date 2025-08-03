@@ -1,4 +1,4 @@
-*Florian Grolleau 2A-DD*  
+*William Smith, Florian Grolleau, Romain Jaffuel 2A-DD*  
 *Under the supervision of Ph.D J.P Forest*  
 *Janvier 2024*
 
