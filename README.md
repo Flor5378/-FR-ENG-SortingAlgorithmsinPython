@@ -23,5 +23,4 @@ git clone https://github.com/Flor5378/Sorting_Algorithms_in_Python.git
 
 jupyter notebook Sorting_animation_no_comments.ipynb
 ```
-2. Next, if you want to re-do the whole data treatment proces, change the path within the python code (when you're loading your CSVs).
 
